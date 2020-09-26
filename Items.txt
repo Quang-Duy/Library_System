@@ -1,0 +1,19 @@
+Harry Potter,J.K.Rowling,1st,None,1997,9780545010221,English,None,Book
+Where the Forest Meets the Stars,None,1st,None,2019,9781503959910,English,None,Book
+Harry Potter,J.K.Rowling,1st,None,1997,9780545010221,English,None,Book
+Rich Dad Poor Dad,Robert Kiyosaki,10nd,None,1997,9781612680194,English,None,Book
+Cold hard truth: On Business& Money & Life,Kevin O'Leary,1st,None,2011,8935246926598,English, None,Book
+Cold Hard Truth: On Men& Women & Money,Kevin O'Leary,1st,None,2019,8935246926604,English,None,Book
+The Intelligent Investor,Benjamin Graham,1st,None,2006,9780060555665,English,None,Book
+Bad Blodd: Secrets and Lies in a Silicon Valley Startup,John Carreyrou,1st,None,2014,9780525431992,English,None,Book
+The Art Of War,Sun Tzu,1st,None,9780141395845,1990,English,None,Book
+Start with Why,Simon Sinek,1st,None,2017,9781591846444,English,None,Book
+Emotional Intelligence: Why It Can Matter More Than IQ,Daniel Goleman,1st,None,1994,9780553840070,English,None,Book
+Think & Grow Rich,Napoleon Hill,1st,None,1990,None,English,None,Book
+Journal of Business Research,Naveen Donthu,1st,None,1989,0148-2963,English,None,Book
+Without $600 Weekly Benefit: Unemployed Face Bleak Choices,NY Times,2020,None,English,None,Journal
+Millions of Evictions Are a Sharper Threat as Government Support Ends,NY Times,2020,None,English,None,Journal
+Coronavirus Live Updates: U.S. Surpasses 5 Million Coronavirus Cases,NY Times,2020,None,English,None,Journal
+Woodstock: Three Days of Peace & Music (Two-Disc 40th Anniversary Director's Cut),Michael Wadleigh,Warner Home Video,2016,English,None,DVD
+A Hard Day’s Night (Miramax),Richard Lester,Alun Owen,1964,English,None,DVD
+From the Basement (UK IMPORT) DVD NEW,None,None,2008,English,None,DVD

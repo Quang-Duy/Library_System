@@ -1,0 +1,11 @@
+Aaron Bui,1,0903752381,asn1@gmail.com,195 Court Street Florence Alabama
+Alab Reoski,2,0907531572,asn2@gmail.com,196 Creek Street Ketchikan Alaska
+Polma Tiska,3,0902758132,asn3@gmail.com,197 Congress Street Tucson Arizona
+Robert Koro,4,0906938523,asn4@gmail.com,198 Dickson Street Fayetteville Arkansas
+Alexa Kovalski,5,0901549633,asn5@gmail.com,199 Lobard Street San Francisco California
+Jonathan Minga,6,0906948153,asn6@gmail.com,200 Larimer Square Denver Colorado
+Lucas Mosphin,7,09034395634,asn7@gmail.com,201 Chapel Street New Haven Connecticut
+Opera Quina,8,09043693463,asn8@gmail.com,202 Second Street Lewes Delaware
+Rola Rose,9,090439056346,asn9@gmail.com,203 Ocean Drive Miami Florida
+Yona Risk,10,090438638945,asn10@gmail.com,204 Peachtree Street Atlanta Georgia
+Elefani Wenia,11,0904369343,asn11@gmail.com,205 Kahala Avenue Honolulu Hawaii
